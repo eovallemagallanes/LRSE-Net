@@ -2,7 +2,7 @@
 
 ----------
  
-This repository hosts the dataset employed for the paper **LRSE-Net: Lightweight Residual Squeeze-and-Excitation Network for stenosis detection in X-ray Coronary Angiography**, submited at [MDPI-Electronics: Special Issue "Convolutional Neural Networks and Vision Applications, Volume II"](https://www.mdpi.com/journal/electronics/special_issues/embedded_vision_applications_2)
+This repository hosts the dataset employed for the paper **LRSE-Net: Lightweight Residual Squeeze-and-Excitation Network for stenosis detection in X-ray Coronary Angiography**, publised at [MDPI-Electronics: Special Issue "Convolutional Neural Networks and Vision Applications, Volume II"](https://www.mdpi.com/2079-9292/11/21/3570)
 
 ----------
 
@@ -10,7 +10,7 @@ This repository hosts the dataset employed for the paper **LRSE-Net: Lightweight
 
 ----------
 
-Two public datasets were used to evaluate the proposed model: the [Deep Stenosis Detection Dataset (DSDD)](https://github.com/KarolAntczak/DeepStenosisDetection) and the [Angiographic Dataset for Stenosis Detection (ADSD)}(10.17632/ydrm75xywg.2).
+Two public datasets were used to evaluate the proposed model: the [Deep Stenosis Detection Dataset (DSDD)](https://github.com/KarolAntczak/DeepStenosisDetection) and the [Angiographic Dataset for Stenosis Detection (ADSD)](10.17632/ydrm75xywg.2).
 
 DSSS consists of small XCA image patches of size $32 \times 32$ taken from different image positions and sources. It contains a total of 1,519 images, whre only 125 are positive cases of stenosis and 1,394 negative cases, which generate an unbalanced ratio of 1:11 \ie one positive case for eleven negative ones.
 This database does not specify a partition for training and testing sets. 
@@ -83,10 +83,10 @@ Augmented Deep Stenosis Detection Dataset and Patched Angiographic Dataset for S
 	author = {Ovalle-Magallanes, Emmanuel and Avina-Cervantes, Juan Gabriel and Cruz-Aceves, Ivan and Ruiz-Pinales, Jose},
 	title = {LRSE-Net: Lightweight Residual Squeeze-and-Excitation Network for stenosis detection in X-ray Coronary Angiography},
 	journal = {Electronics},
-	volume = {},
+	volume = {11},
 	year = {2022},
-	pages={},
-  	doi={},
+	pages={3570},
+  	doi={10.3390/electronics11213570},
 ```
 
 ----------
